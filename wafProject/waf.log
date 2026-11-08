@@ -1,0 +1,7 @@
+[2026-05-06 23:26:44] IP: 127.0.0.1 | Raison: Signature/Regex Match | Payload: URL: id=%27+OR+1%3D1&Submit=Submit | BODY: {}
+[2026-05-06 23:26:51] IP: 127.0.0.1 | Raison: Signature/Regex Match | Payload: URL: id=%27+OR+1%3D1&Submit=Submit | BODY: {}
+[2026-05-06 23:26:59] IP: 127.0.0.1 | Raison: Signature/Regex Match | Payload: URL: id=1%27+OR+%271%27%3D%271&Submit=Submit | BODY: {}
+[2026-05-06 23:27:58] IP: 127.0.0.1 | Raison: Signature/Regex Match | Payload: URL: name=%3Cscript%3E | BODY: {}
+[2026-05-06 23:30:33] IP: 127.0.0.1 | Raison: Signature/Regex Match | Payload: URL: name=%3Cscript | BODY: {}
+[2026-05-06 23:33:53] IP: 127.0.0.1 | Raison: Signature/Regex Match | Payload: URL: name=%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E | BODY: {}
+[2026-05-06 23:36:44] IP: 127.0.0.1 | Raison: Signature/Regex Match | Payload: URL: id=or+1%3D1&Submit=Submit | BODY: {}
